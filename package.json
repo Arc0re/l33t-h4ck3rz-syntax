@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/l33t-h4ck3rz-syntax",
+  "repository": "https://github.com/Arc0re/l33t-h4ck3rs-atom-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
